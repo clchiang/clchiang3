@@ -78,6 +78,12 @@ body {
     outline: 0 !important;
 }
 
+body>div>aside>nav>ul>li>div {
+    text-decoration-color: #000000;
+    background-color: #417eae;
+    text-align: center
+}
+
 hr {
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
